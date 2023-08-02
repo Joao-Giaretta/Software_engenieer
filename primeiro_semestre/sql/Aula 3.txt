@@ -1,0 +1,62 @@
+
+CREATE TABLE  Clientes
+(
+    Nome varchar2(50),
+    Data_Nascimento date,
+    Cidade varchar2(20),
+    Estado varchar(10),
+    CEP number(7),
+    CPF varchar2(13)
+);
+
+
+CREATE TABLE  Produtos
+(
+    Nome varchar2(50),
+    Categoria varchar2(20),
+    Numero integer,
+    Quantidade integer
+);
+
+CREATE TABLE  Vendedores
+(
+    Nome varchar2(50),
+    Vendas integer,
+    Produtos_vendidos integer,
+    Cidade varchar2(20),
+    Estado varchar(10),
+    CNPJ number
+);
+
+DESCRIBE Vendedores;
+
+
+----------------------------------------
+
+
+Nome            Nulo? Tipo         
+--------------- ----- ------------ 
+NOME                  VARCHAR2(50) 
+DATA_NASCIMENTO       DATE         
+CIDADE                VARCHAR2(20) 
+ESTADO                VARCHAR2(10) 
+CEP                   NUMBER(7)    
+CPF                   VARCHAR2(13) 
+
+
+Nome       Nulo? Tipo         
+---------- ----- ------------ 
+NOME             VARCHAR2(50) 
+CATEGORIA        VARCHAR2(20) 
+NUMERO           NUMBER(38)   
+QUANTIDADE       NUMBER(38)   
+
+
+Nome              Nulo? Tipo         
+----------------- ----- ------------ 
+NOME                    VARCHAR2(50) 
+VENDAS                  NUMBER(38)   
+PRODUTOS_VENDIDOS       NUMBER(38)   
+CIDADE                  VARCHAR2(20) 
+ESTADO                  VARCHAR2(10) 
+CNPJ                    NUMBER  
