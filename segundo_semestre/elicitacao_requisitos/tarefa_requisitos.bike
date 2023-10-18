@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <ul id="zwQHBkEZ">
+      <li id="jy">
+        <p/>
+      </li>
+      <li id="Cx">
+        <p/>
+      </li>
+      <li id="3C" data-type="heading">
+        <p>1.  Visão geral</p>
+        <ul>
+          <li id="5L">
+            <p>O WhatsApp é um aplicativo de troca de mensagens e comunicação em áudio e vídeo pela internet, disponível para smartphones Android, IOS e computadores Mac e Windows.</p>
+          </li>
+          <li id="1I">
+            <p>O App foi criado em 2009, nos Estados Unidos, por Brian Acton e Jan Koum, dois ex-funcionários do Yahoo, começou com o objetivo de oferecer uma alternativa às mensagens via SMS, e agora oferece suporte ao envio e recebimento de uma variedade de arquivos de mídia.</p>
+          </li>
+          <li id="fxQ">
+            <p>O sucesso chamou a atenção do Facebook, conhecido como Meta atualmente, que realizou sua compra em 2014 pelo valor de US$ 19 bilhões, porém continuou funcionando de forma independente dos restantes serviços da empresa.</p>
+          </li>
+          <li id="Ssm">
+            <p>Sua filosofia é a criptografia de ponta a ponta, que impede, ou dificulta, a interceptação de mensagens. Desta forma, nem mesmo a empresa tem acesso ao conteúdo que circula pela plataforma.</p>
+          </li>
+          <li id="zQ4">
+            <p>O WhatsApp atualmente é muito mais do que um app para mensagens de texto, de voz, ligações e chamado de vídeos. Sua versão Business ganhou diversas funcionalidades para ajudar nas estratégias de comunicação das organizações.</p>
+          </li>
+          <li id="MAe">
+            <p>Sendo assim, é utilizado tanto pelas pessoas físicas como meio de comunicação digital, quanto pelas empresas em termo de canais de vendas e comunicação.</p>
+            <ul>
+              <li id="lpT">
+                <p/>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li id="y25">
+        <p>2. Requisitos Funcionais do Aplicativo</p>
+        <ul>
+          <li id="GJI">
+            <p>Suas principais funcionalidades são:</p>
+            <ul>
+              <li id="9BS">
+                <p>Envio e recebimento de diversos tipos de arquivos:</p>
+                <ul>
+                  <li id="FJx">
+                    <p>Texto, fotos, vídeos, documentos, localização e chamadas de voz.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="5ev">
+                <p>Realização de Pagamentos:</p>
+                <ul>
+                  <li id="swv">
+                    <p>Através do Facebook Pay, é possível cadastrar os dados dos seus cartões e efetuar pagamentos à um contato específico.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="dgz">
+                <p>Remover o status “Online”:</p>
+                <ul>
+                  <li id="AH7">
+                    <p>É possível remover a informação que consta que o usuário está utilizando o aplicativo no momento, afim de gerar uma maior privacidade.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="jht">
+                <p>Status:</p>
+                <ul>
+                  <li id="4vC">
+                    <p>Semelhante aos status do Instagram, o usuário pode através desse recurso postar fotos, videos ou avisos que ficam disponíveis para seus contatos visualizarem por um período de tempo.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="7IQ">
+                <p>Apagar Mensagens Enviadas:</p>
+                <ul>
+                  <li id="qp_">
+                    <p>Apaga as mensagens recentemente enviadas, serve para que você às corrija, ou que por qualquer motivo não queira que seja vista. Seu tempo máximo para a utilização desse recurso é de 7 minutos</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="MtJ">
+                <p>Backup automático:</p>
+                <ul>
+                  <li id="9Ym">
+                    <p>Realiza o backup de suas conversas e arquivos para a nuvem, caso troque de dispositivo, será possível continuar com todos os históricos e documentos recebidos anteriormente.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="m7d">
+                <p>Lista de transmissão:</p>
+                <ul>
+                  <li id="Ej6">
+                    <p>Possibilita o envio de mensagens de uma só vez para diversas pessoas. Muito utilizadas pela empresas para a divulgação de promoções, serviços e produtos.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="HR7">
+                <p>WhatsApp no Desktop:</p>
+                <ul>
+                  <li id="sAk">
+                    <p>Possibilita a utilização do app em seu navegador, sua conexão é realizada através da leitura do QR Code pelo seu app do smartphone</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="zPq">
+                <p>Responder Mensagens específicas:</p>
+                <ul>
+                  <li id="k4_">
+                    <p>Possibilita ao usuário destacar a mensagens recebida que está sendo referenciada em sua resposta.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="VZt">
+                <p>Arquivar Conversas:</p>
+                <ul>
+                  <li id="v80">
+                    <p>O usuário poderá arquivar suas conversas desejadas para facilitar seu acesso, as mensagens arquivadas ficam guardadas no topo do histórico de conversa.</p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li id="_3O">
+        <p>3. Requisitos não Funcionais do aplicativo</p>
+        <ul>
+          <li id="m4L">
+            <p>Produto:</p>
+            <ul>
+              <li id="bs5">
+                <p>Usabilidade:</p>
+                <ul>
+                  <li id="lNh">
+                    <p>Os usuários poderão utilizar o sistema após sua instalação no smartphone.</p>
+                  </li>
+                  <li id="S0s">
+                    <p>Possui fácil usabilidade através de sua interface simples e interativa.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="dL2">
+                <p>Performance:</p>
+                <ul>
+                  <li id="j0Z">
+                    <p>É um software de alta performance, recebe e processa toneladas de informações 24h por dia.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="grs">
+                <p>Confiabilidade:</p>
+                <ul>
+                  <li id="94U">
+                    <p>Seu sistema é disponibilizado 24 horas por dia e 7 dias por semana.</p>
+                  </li>
+                  <li id="o41">
+                    <p>Sendo apenas interrompido por ações externas, como por exemplo: pedido de bloqueio do Governo.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="XbN">
+                <p>Portabilidade:</p>
+                <ul>
+                  <li id="ouC">
+                    <p>O sistema é executado tanto na plataforma de mobile, quanto em WEB. Podendo ser acessado através de smartphones e computadores.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="TVp">
+                <p>Segurança:</p>
+                <ul>
+                  <li id="tuX">
+                    <p>Possuí um sistema de criptografia avançada que proteje as informações, mensagens e arquivos dos seus usuários. Nem mesmo a própria empresa tem acesso as essas informações</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="jch">
+                <p>Escalabilidade:</p>
+                <ul>
+                  <li id="Xq7">
+                    <p>Possui um grande ambiente de desenvolvimento para a aprimoração do seu software.</p>
+                  </li>
+                  <li id="kuO">
+                    <p>Consta com altos servidores para o armazenamento das informações de seus usuários.</p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li id="uDB">
+            <p>Organizacionais:</p>
+            <ul>
+              <li id="OX8">
+                <p>Políticas e procedimentos corporativos:</p>
+                <ul>
+                  <li id="xFz">
+                    <p>Possui o mesmo padrão de interface para todos seus dispositivos, seja mobile ou web.</p>
+                  </li>
+                  <li id="qsf">
+                    <p>Todos os dados recebidos são criptografados antes de serem armazenados.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="_aY">
+                <p>Entrega:</p>
+                <ul>
+                  <li id="5p2">
+                    <p>Geração de relatórios de uso e performance do software.</p>
+                  </li>
+                  <li id="vRL">
+                    <p>Recebimento de Feedback de seus usuários.</p>
+                  </li>
+                  <li id="ARQ">
+                    <p>Status atual do sistema.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="95_">
+                <p>Implementação:</p>
+                <ul>
+                  <li id="qpP">
+                    <p>Criação e implementação de novos recursos desenvolvidos com o sistema operacional FreeBSD com a linguagem de programação Erlang.</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="jib">
+                <p>Padrões:</p>
+                <ul>
+                  <li id="Mq9">
+                    <p>Uso de programação voltada a desenvolvimento mobile e WEB.</p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li id="4Lo">
+            <p>Externos:</p>
+            <ul>
+              <li id="6X3">
+                <p>Interoperabilidade:</p>
+                <ul>
+                  <li id="OP">
+                    <p>O Sistema Opera através da comunicação dos seus servidores e links WEB</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="Xl">
+                <p>Éticos:</p>
+                <ul>
+                  <li id="lG">
+                    <p>Possuí um sistema de denuncia de mensagens abusivas que ajudam o usuário a ter uma melhor experiência</p>
+                  </li>
+                </ul>
+              </li>
+              <li id="4F">
+                <p>Legais:</p>
+                <ul>
+                  <li id="jI">
+                    <p>O WhatsApp opera dentro das leis de Privacidade de Dados, criptografia, leis de comunicações eletrônicas, leis de combate ao spam e abuso, entre outros.</p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li id="yH">
+        <p>4. Especificação Detalhada de Requisito</p>
+        <ul>
+          <li id="f0b">
+            <p>Idade Mínima:</p>
+            <ul>
+              <li id="G1f">
+                <p>De acordo com os termos, os usuários devem ter pelo menos 16 anos para utilizar o WhatsApp na maioria dos países.</p>
+              </li>
+            </ul>
+          </li>
+          <li id="4WG">
+            <p>Uso Adequado:</p>
+            <ul>
+              <li id="vkM">
+                <p>Os usuários são obrigados a seguir as políticas de uso adequado, que proíbem o envio de mensagens abusivas, ameaçadoras, difamatórias ou ilegais. O envio de Spam também é proibido.</p>
+              </li>
+            </ul>
+          </li>
+          <li id="hPS">
+            <p>Proibição de Conteúdo Ilegal:</p>
+            <ul>
+              <li id="Cyo">
+                <p>É proibido estritamente a distribuição de conteúdo ilegal, como pornografia infantil, discurso de ódio e outros tipos de conteúdo proibido por leis e regulamentações.</p>
+              </li>
+            </ul>
+          </li>
+          <li id="fPw">
+            <p>Autenticidade da Identidade:</p>
+            <ul>
+              <li id="ry1">
+                <p>Os usuários devem fornecer informações de registro precisas e autênticas, como número de telefone, ao criar uma conta no Aplicativo.</p>
+              </li>
+              <li id="7kX">
+                <p/>
+              </li>
+            </ul>
+          </li>
+          <li id="Y9W">
+            <p>Leis Locais:</p>
+            <ul>
+              <li id="2EF">
+                <p>Deve cumprir as leis locais e regulamentações em cada jurisdição em que opera, o que pode resultar em restrições adicionais em certas áreas, dependendo das leis locais. </p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li id="iPP">
+        <p>5. Descrever os tipos de informações</p>
+        <ul>
+          <li id="_QC">
+            <p>Seus principais tipos de informações são:</p>
+            <ul>
+              <li id="ktZ">
+                <p>Texto</p>
+              </li>
+              <li id="AJ6">
+                <p>Imagens</p>
+              </li>
+              <li id="Aoh">
+                <p>Vídeos</p>
+              </li>
+              <li id="Onb">
+                <p>Áudio</p>
+              </li>
+              <li id="Wwk">
+                <p>Documentos</p>
+              </li>
+              <li id="4fY">
+                <p>Localização</p>
+              </li>
+              <li id="Und">
+                <p>Chamadas de Voz e Vídeo</p>
+              </li>
+              <li id="w98">
+                <p>Links</p>
+              </li>
+              <li id="ifh">
+                <p>Contatos</p>
+              </li>
+              <li id="nSW">
+                <p>Stickers, Gifs e Emojis</p>
+              </li>
+              <li id="wal">
+                <p>Status</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>

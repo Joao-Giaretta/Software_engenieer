@@ -1,0 +1,102 @@
+Caio Cezar Gandara dos Santos - 23015616
+Filipe Daniel Medeiros T. Mota - 23002322
+Joao Pedro Giaretta de Oliveira - 23008717
+Thiago Luiz fossa - 23010116
+
+---------------------------------------------
+
+
+1.  Visão geral
+	O WhatsApp é um aplicativo de troca de mensagens e comunicação em áudio e vídeo pela internet, disponível para smartphones Android, IOS e computadores Mac e Windows.
+	O App foi criado em 2009, nos Estados Unidos, por Brian Acton e Jan Koum, dois ex-funcionários do Yahoo, começou com o objetivo de oferecer uma alternativa às mensagens via SMS, e agora oferece suporte ao envio e recebimento de uma variedade de arquivos de mídia.
+	O sucesso chamou a atenção do Facebook, conhecido como Meta atualmente, que realizou sua compra em 2014 pelo valor de US$ 19 bilhões, porém continuou funcionando de forma independente dos restantes serviços da empresa.
+	Sua filosofia é a criptografia de ponta a ponta, que impede, ou dificulta, a interceptação de mensagens. Desta forma, nem mesmo a empresa tem acesso ao conteúdo que circula pela plataforma.
+	O WhatsApp atualmente é muito mais do que um app para mensagens de texto, de voz, ligações e chamado de vídeos. Sua versão Business ganhou diversas funcionalidades para ajudar nas estratégias de comunicação das organizações.
+	Sendo assim, é utilizado tanto pelas pessoas físicas como meio de comunicação digital, quanto pelas empresas em termo de canais de vendas e comunicação.
+
+2. Requisitos Funcionais do Aplicativo
+	Suas principais funcionalidades são:
+		Envio e recebimento de diversos tipos de arquivos:
+			Texto, fotos, vídeos, documentos, localização e chamadas de voz.
+		Realização de Pagamentos:
+			Através do Facebook Pay, é possível cadastrar os dados dos seus cartões e efetuar pagamentos à um contato específico.
+		Remover o status “Online”:
+			É possível remover a informação que consta que o usuário está utilizando o aplicativo no momento, afim de gerar uma maior privacidade.
+		Status:
+			Semelhante aos status do Instagram, o usuário pode através desse recurso postar fotos, videos ou avisos que ficam disponíveis para seus contatos visualizarem por um período de tempo.
+		Apagar Mensagens Enviadas:
+			Apaga as mensagens recentemente enviadas, serve para que você às corrija, ou que por qualquer motivo não queira que seja vista. Seu tempo máximo para a utilização desse recurso é de 7 minutos
+		Backup automático:
+			Realiza o backup de suas conversas e arquivos para a nuvem, caso troque de dispositivo, será possível continuar com todos os históricos e documentos recebidos anteriormente.
+		Lista de transmissão:
+			Possibilita o envio de mensagens de uma só vez para diversas pessoas. Muito utilizadas pela empresas para a divulgação de promoções, serviços e produtos.
+		WhatsApp no Desktop:
+			Possibilita a utilização do app em seu navegador, sua conexão é realizada através da leitura do QR Code pelo seu app do smartphone
+		Responder Mensagens específicas:
+			Possibilita ao usuário destacar a mensagens recebida que está sendo referenciada em sua resposta.
+		Arquivar Conversas:
+			O usuário poderá arquivar suas conversas desejadas para facilitar seu acesso, as mensagens arquivadas ficam guardadas no topo do histórico de conversa.
+
+3. Requisitos não Funcionais do aplicativo
+	Produto:
+		Usabilidade:
+			Os usuários poderão utilizar o sistema após sua instalação no smartphone.
+			Possui fácil usabilidade através de sua interface simples e interativa.
+		Performance:
+			É um software de alta performance, recebe e processa toneladas de informações 24h por dia.
+		Confiabilidade:
+			Seu sistema é disponibilizado 24 horas por dia e 7 dias por semana.
+			Sendo apenas interrompido por ações externas, como por exemplo: pedido de bloqueio do Governo.
+		Portabilidade:
+			O sistema é executado tanto na plataforma de mobile, quanto em WEB. Podendo ser acessado através de smartphones e computadores.
+		Segurança:
+			Possuí um sistema de criptografia avançada que proteje as informações, mensagens e arquivos dos seus usuários. Nem mesmo a própria empresa tem acesso as essas informações
+		Escalabilidade:
+			Possui um grande ambiente de desenvolvimento para a aprimoração do seu software.
+			Consta com altos servidores para o armazenamento das informações de seus usuários.
+	Organizacionais:
+		Políticas e procedimentos corporativos:
+			Possui o mesmo padrão de interface para todos seus dispositivos, seja mobile ou web.
+			Todos os dados recebidos são criptografado antes de serem armazenados.
+		Entrega:
+			Geração de relatórios de uso e performance do software.
+			Recebimento de Feedback de seus usuários.
+			Status atual do sistema.
+		Implementação:
+			Criação e implementação de novos recursos desenvolvidos com o sistema operacional FreeBSD com a linguagem de programação Erlang.
+		Padrões:
+			Uso de programação voltada a desenvolvimento mobile e WEB.
+	Externos:
+		Interoperabilidade:
+			O Sistema Opera através da comunicação dos seus servidores e links WEB
+		Éticos:
+			Possuí um sistema de denuncia de mensagens abusivas que ajudam o usuário a ter uma melhor experiência
+		Legais:
+			O WhatsApp opera dentro das leis de Privacidade de Dados, criptografia, leis de comunicações eletrônicas, leis de combate ao spam e abuso, entre outros.
+
+4. Especificação Detalhada de Requisito
+	Idade Mínima:
+		De acordo com os termos, os usuários devem ter pelo menos 16 anos para utilizar o WhatsApp na maioria dos países.
+	Uso Adequado:
+		Os usuários são obrigados a seguir as políticas de uso adequado, que proíbem o envio de mensagens abusivas, ameaçadoras, difamatórias ou ilegais. O envio de Spam também é proibido.
+	Proibição de Conteúdo Ilegal:
+		É proibido estritamente a distribuição de conteúdo ilegal, como pornografia infantil, discurso de ódio e outros tipos de conteúdo proibido por leis e regulamentações.
+	Autenticidade da Identidade:
+		Os usuários devem fornecer informações de registro precisas e autênticas, como número de telefone, ao criar uma conta no Aplicativo.
+		
+	Leis Locais:
+		Deve cumprir as leis locais e regulamentações em cada jurisdição em que opera, o que pode resultar em restrições adicionais em certas áreas, dependendo das leis locais. 
+
+5. Descrever os tipos de informações
+	Seus principais tipos de informações são:
+		Texto
+		Imagens
+		Vídeos
+		Áudio
+		Documentos
+		Localização
+		Chamadas de Voz e Vídeo
+		Links
+		Contatos
+		Stickers, Gifs e Emojis
+		Status

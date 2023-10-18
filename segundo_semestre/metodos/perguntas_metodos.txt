@@ -1,0 +1,21 @@
+Perguntas:
+
+1. Qual o benefício dessa implementação?
+
+2. Como será utilizado esse sistema?
+
+3. Como gostaria que fosse o layout da página?
+
+4. Onde o usuário acessaria esse recurso?
+
+5. Em qual momento o usuário teria acesso a esse sistema?
+
+6. Quem fornecerá as entradas para o recurso?
+
+7. Quais partes esse recurso será dividido?
+
+8. Como seria o passo a passo de funcionamento do sistema?
+
+9. Qual deveria ser o comportamento do sistema em tal cenário?
+
+10. Quais são os dados a serem rastreados?

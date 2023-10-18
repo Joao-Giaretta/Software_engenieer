@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aprendendo HTML</title>
+    </head>
+    <body>
+        <h1>Elementos HTML5</h1>
+        <h2>Table - Tabelas</h2>
+        <p>Tabelas usamos apenas para mostrar dados tabulados. Não usamos mais para organizar layouts</p>
+        <p>Tabela antigona desde HTML1</p>
+        <table>
+            <tr>
+                <td>RA</td>
+                <td>Nome</td>
+            </tr>
+            <tr>
+                <td>1234</td>
+                <td>José Silva</td>
+            </tr>
+            <tr>
+                <td>4567</td>
+                <td>Raquel Oliveira</td>
+            </tr>
+        </table>
+        <p>Tabela Atual HTML5</p>
+        <table border="10" cellpadding="10" cellspacing="10">
+            <thead>
+              <tr>
+                <th>RA</th>
+                <th>Nome</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1234</td>
+                <td>José Silva</td>
+              </tr>
+              <tr>
+                <td>4367</td>
+                <td>Raquel Oliveira</td>
+              </tr>
+            </tbody>
+          </table>
+          <h2>As divisões espaciais. DIV </h2>
+          <p>As divisões espaciais servem para muita coisa, principalmente
+             organizar conteúdos em espaços físicos da página</p>
+          <div>
+            <p>Essa é a DIV 1</p>
+            <div>
+                <p>Essa é a DIV 2 que está dentro da 1</p>
+            </div>
+          </div>
+          <p>Observando a delimitação espacial usando estilização CSS 
+            (in-line) *Evitar usar CSS in-line</p>
+          <div style="border:5px solid black;">
+            <p>Essa é a DIV 1</p>
+            <div style="border:5px dotted red;">
+                <p>Essa é a DIV 2 que está dentro da 1</p>
+            </div>
+          </div>
+          <p>Entendendo tamanhos relativos e físicos</p>
+          <div style="border:5px solid navy; width: 50%;">
+            <p>Esta DIV ocupa 50% da largura disponível</p>
+            <div style="border:2px solid black; width: 50%;">
+              <p>Esta ocupa 50% da outra</p>
+            </div>
+          </div>
+          <div>
+            <h2>Consulta de Faltas</h2>
+            <p>Informe seu RA</p>
+            <form>
+              <input type="text" pattern="[0-9]+$" maxlength="8">
+              <input type="submit" value="Consultar"/>
+            </form>
+          </div>
+    </body>
+</html>

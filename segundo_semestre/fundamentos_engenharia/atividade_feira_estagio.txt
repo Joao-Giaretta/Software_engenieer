@@ -1,0 +1,13 @@
+
+Empresas Predominantes de Software:
+1. Sotteli
+2. Icaro
+3. Eng4 Tech
+
+
+Empresas que o core não é software:
+1. Bosch - A Bosch desenvolve ferramentas elétricas, acessórios e equipamentos de medição inteligente inovadores e de alta qualidade. Nessa empresa o desenvolvimento de software auxilia no controle das máquinas e na segurança dos sistemas.
+
+2. Stoller - A Stoller possui soluções que atuam em todos os estágios das plantas e se tornou líder mundial em nutrição com foco na fisiologia vegetal e em soluções biológicas. Utiliza-se de softwares para o controle dos equipamentos de pesquisas e recursos.
+
+3. Becomex - Especialistas nas áreas fiscal, tributária e aduaneira, com atuação ampla em toda a cadeia produtiva. Eles também possuem a Becomex Lab que é a responsável por toda inovação tecnológica que compõe os pilares da Becomex. Mantém e evolui as tecnologias que dão sustentação a todas as linhas de negócio da Becomex.
