@@ -1,0 +1,57 @@
+CREATE TABLE EX_FUNCIONARIOS(
+    CODIGO INTEGER NOT NULL PRIMARY KEY,
+    NOME VARCHAR2(500) NOT NULL,
+    CPF VARCHAR2(11) NOT NULL UNIQUE,
+    SALARIO_BRUTO NUMBER NOT NULL,
+    VALOR_INSS NUMBER NOT NULL,
+    VALOR_IRPF NUMBER NOT NULL,
+    SALARIO_LIQUIDO NUMBER NOT NULL 
+);
+
+CREATE OR REPLACE FUNCTION calcular_inss (salario_bruto NUMBER)
+RETURN NUMBER
+IS
+    valor_inss NUMBER;
+BEGIN
+    IF salario_bruto <= 1320 THEN valor_inss:= salario_bruto * 0.075;
+    ELSIF salario_bruto <= 2571.29 THEN valor_inss:= salario_bruto * 0.09;
+    ELSIF salario_bruto <= 3856.94 THEN valor_inss:= salario_bruto * 0.12;
+    ELSE valor_inss := salario_bruto * 0.14;
+    END IF;
+    
+    RETURN valor_inss;
+END calcular_inss;
+
+create or replace function calcular_irrf
+(salario_bruto number)
+return number
+is
+aliquota number;
+begin
+if salario_bruto<2112.00 then aliquota:=0.075;
+elsif salario_bruto>2112.00 and salario_bruto<2826.65 then aliquota:=0.15;
+elsif salario_bruto>2825.65 and salario_bruto<3751.05 then aliquota:=0.225;
+else aliquota:= 0.275;
+end if;
+
+return (aliquota*salario_bruto);
+
+END calcular_irrf;
+
+DECLARE
+    fun_codigo INTEGER := 1;
+    fun_nome VARCHAR2(500) := 'João Pedro';
+    fun_cpf VARCHAR2(11) := '12345678901';
+    fun_salario_bruto NUMBER := 1500;
+    fun_valor_inss NUMBER := calcular_inss(fun_salario_bruto);
+    fun_valor_irrf NUMBER := calcular_irrf(fun_salario_bruto);
+    fun_salario_luquido NUMBER := (fun_salario_bruto - (fun_valor_inss + fun_valor_irrf));
+BEGIN
+
+    INSERT INTO EX_FUNCIONARIOS (CODIGO, NOME, CPF, SALARIO_BRUTO, VALOR_INSS, VALOR_IRPF, SALARIO_LIQUIDO)
+    VALUES (fun_codigo, fun_nome, fun_cpf, fun_salario_bruto, fun_valor_inss, fun_valor_irrf, fun_salario_luquido);
+    
+    COMMIT;
+END;
+    
+SELECT * FROM EX_FUNCIONARIOS 
